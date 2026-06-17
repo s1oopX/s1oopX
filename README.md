@@ -7,6 +7,17 @@
   不是在堆 demo，而是在做能落地的系统。
 </p>
 
+<p align="center">
+  <a href="https://s1oop.bbroot.com">Blog</a>
+  ·
+  Hong Kong, China
+  ·
+  <code>Rust</code>
+  <code>Python</code>
+  <code>Tauri</code>
+  <code>Cloudflare</code>
+</p>
+
 ## Selected Builds
 
 <table>
@@ -80,8 +91,6 @@
   </tr>
 </table>
 
-## Elsewhere
+## Stack
 
-- Blog: <a href="https://s1oop.bbroot.com">s1oop.bbroot.com</a>
-- Base: Hong Kong, China
-- Stack: `Rust` `Tauri` `Python` `Django` `Vue` `JavaScript` `Cloudflare` `SQLite` `PowerShell`
+`Rust` `Tauri` `Python` `Django` `Vue` `JavaScript` `Cloudflare` `SQLite` `PowerShell`
