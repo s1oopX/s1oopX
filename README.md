@@ -1,6 +1,4 @@
-## s1oopX
-
-Interested in the point where new tools stop feeling novel and start changing habits.
+> Interested in the point where new tools stop feeling novel and start changing habits.
 
 ### 最近在看 / currently watching
 
