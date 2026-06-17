@@ -3,18 +3,8 @@
 </p>
 
 <p align="center">
-  <strong>不是在堆 demo，而是在做能落地的系统。</strong><br />
-  Local-first desktop tools, Chinese NLP systems, and runtime architecture that actually ships.
-</p>
-
-<p align="center">
-  <a href="https://github.com/s1oopX/clipmaster-tauri">ClipMaster</a>
-  ·
-  <a href="https://github.com/s1oopX/agent-memory-workflow">agent-memory-workflow</a>
-  ·
-  <a href="https://github.com/s1oopX/SentimentPlatform-Open">SentimentPlatform</a>
-  ·
-  <a href="https://github.com/s1oopX/s1oop-cloudflare-blog-public">Cloudflare Blog</a>
+  <strong>Local-first tools · Chinese NLP · runtime systems</strong><br />
+  不是在堆 demo，而是在做能落地的系统。
 </p>
 
 ## Selected Builds
@@ -46,17 +36,17 @@
   </tr>
 </table>
 
-## What I Build
+## Focus
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <strong>Local-first tools</strong>
+      <strong>Desktop tools</strong>
       <br />
-      Windows desktop software, durable local workflows, and utilities that remain useful without a network.
+      Windows software, durable local workflows, and utilities that stay useful without a network.
     </td>
     <td width="33%" valign="top">
-      <strong>Applied ML systems</strong>
+      <strong>Applied ML</strong>
       <br />
       Chinese review analysis, human-in-the-loop workflows, async jobs, and training-capable product surfaces.
     </td>
@@ -68,12 +58,27 @@
   </tr>
 </table>
 
-## Operating Taste
+## Build Taste
 
-- `local-first` over cloud dependence
-- `reproducible workflow` over fragile setup
-- `product surface` over portfolio mockup
-- `shipping` over endless concepting
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>Reproducible</strong>
+      <br />
+      I like systems that can be rerun, reasoned about, and handed off cleanly.
+    </td>
+    <td width="33%" valign="top">
+      <strong>Practical</strong>
+      <br />
+      I prefer product surfaces and usable workflows over decorative portfolio demos.
+    </td>
+    <td width="33%" valign="top">
+      <strong>Shippable</strong>
+      <br />
+      The end state should be something a real user can open, run, and keep using.
+    </td>
+  </tr>
+</table>
 
 ## Elsewhere
 
