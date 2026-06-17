@@ -1,34 +1,28 @@
-> One question I keep returning to:
->
-> **What happens when new tools stop feeling novel and start becoming habits?**
+## s1oopX
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Agent workflows</strong><br />
-      memory, context, and continuity in everyday use<br />
-      <a href="https://github.com/s1oopX/agent-memory-workflow">agent-memory-workflow</a>
-    </td>
-    <td width="50%" valign="top">
-      <strong>Interface shifts</strong><br />
-      software becoming model-shaped rather than menu-shaped<br />
-      <a href="https://github.com/s1oopX/s1oop-cloudflare-blog-public">s1oop-cloudflare-blog-public</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Personal local software</strong><br />
-      tools becoming more stateful, private, and habit-forming<br />
-      <a href="https://github.com/s1oopX/clipmaster-tauri">clipmaster-tauri</a>
-    </td>
-    <td width="50%" valign="top">
-      <strong>Language as signal</strong><br />
-      reading feedback, tone, and behavior as product input<br />
-      <a href="https://github.com/s1oopX/SentimentPlatform-Open">SentimentPlatform-Open</a>
-    </td>
-  </tr>
-</table>
+持续学习，持续跟进，持续分享。  
+I like to stay close to new tools, new workflows, and the way technology keeps changing how we build.
 
-比起先定义自己，我更想先靠近这些变化。
+`curious` `fast learner` `frontier follower` `tool explorer` `AI watcher` `workflow thinker`
+
+`learning in public` `habit builder` `signal catcher` `trend sensitive` `practical sharer` `project collector`
+
+### About me
+
+- 喜欢追踪新的技术变化，也喜欢观察它们什么时候真正进入日常
+- 会持续分享我觉得好玩、有用、或者值得继续挖下去的项目
+- 对工具、工作流、AI、产品形态变化都保持强烈兴趣
+- I learn fast, try things early, and keep the useful parts
+
+### What you will find here
+
+- interesting tools
+- useful experiments
+- small but thoughtful projects
+- things worth watching as the tech world moves
+
+### Current keywords
+
+`agents` `AI tools` `interfaces` `local software` `automation` `product sense` `future workflows`
 
 [s1oop.bbroot.com](https://s1oop.bbroot.com)
