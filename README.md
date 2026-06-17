@@ -8,9 +8,8 @@ Staying close to new tools, new ideas, and the edge of change.
 <p>
   <a href="https://s1oop.bbroot.com"><img src="https://img.shields.io/badge/blog-bbroot-111111?style=flat-square" alt="blog" /></a>
   <img src="https://img.shields.io/badge/base-Hong%20Kong-334155?style=flat-square" alt="Hong Kong" />
-  <img src="https://img.shields.io/badge/state-learning%20in%20public-0f766e?style=flat-square" alt="learning in public" />
-  <img src="https://img.shields.io/badge/signal-frontier%20aware-7c3aed?style=flat-square" alt="frontier aware" />
-  <img src="https://img.shields.io/badge/pace-steady%20update-2563eb?style=flat-square" alt="steady update" />
+  <img src="https://img.shields.io/badge/state-learning-0f766e?style=flat-square" alt="learning" />
+  <img src="https://img.shields.io/badge/signal-frontier-7c3aed?style=flat-square" alt="frontier" />
 </p>
 
 ### note
