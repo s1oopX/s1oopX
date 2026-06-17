@@ -10,7 +10,7 @@ Building local-first tools, developer workflows, and shippable software systems.
 - Chinese NLP and sentiment analysis systems
 - Cloudflare runtime architecture
 
-## Featured Projects
+## Selected Work
 
 ### [ClipMaster](https://github.com/s1oopX/clipmaster-tauri)
 Local-first clipboard and screenshot manager for Windows.
@@ -31,3 +31,4 @@ Public source for a Cloudflare-based blog architecture.
 ## Link
 
 - Blog: https://s1oop.bbroot.com
+
