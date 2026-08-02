@@ -25,4 +25,4 @@ I like to stay close to new tools, new workflows, and the way technology keeps c
 
 `agents` `AI tools` `interfaces` `local software` `automation` `product sense` `future workflows`
 
-[s1oop.bbroot.com](https://s1oop.bbroot.com)
+[s1oop.bbroot.com](https://s1oop.bond)
