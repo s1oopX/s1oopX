@@ -1,7 +1,8 @@
 ## s1oopX
 
-持续学习，持续跟进，持续分享。  
-I try things early, and keep the useful parts.
+持续学习，持续跟进，持续分享。
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=808080&vCenter=true&width=500&lines=I+try+things+early%2C+and+keep+the+useful+parts.;%E5%86%99%E7%82%B9%E8%87%AA%E5%B7%B1%E4%BC%9A%E7%94%A8%E7%9A%84%E4%B8%9C%E8%A5%BF%E3%80%82" alt="typing" />
 
 `curious` `fast learner` `tool explorer` `workflow thinker` `learning in public` `habit builder`
 
