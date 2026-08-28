@@ -1,28 +1,25 @@
 ## s1oopX
 
 持续学习，持续跟进，持续分享。  
-I like to stay close to new tools, new workflows, and the way technology keeps changing how we build.
+I try things early, and keep the useful parts.
 
-`curious` `fast learner` `frontier follower` `tool explorer` `AI watcher` `workflow thinker`
-
-`learning in public` `habit builder` `signal catcher` `trend sensitive` `practical sharer` `project collector`
+`curious` `fast learner` `tool explorer` `workflow thinker` `learning in public` `habit builder`
 
 ### About me
 
 - 喜欢追踪新的技术变化，也喜欢观察它们什么时候真正进入日常
 - 会持续分享我觉得好玩、有用、或者值得继续挖下去的项目
-- 对工具、工作流、AI、产品形态变化都保持强烈兴趣
-- I learn fast, try things early, and keep the useful parts
+- 写点自己会用的东西，后端偏全栈，Java / Rust / TypeScript
 
 ### What you will find here
 
-- interesting tools
-- useful experiments
-- small but thoughtful projects
-- things worth watching as the tech world moves
+- **interesting tools** — [clipmaster-tauri](https://github.com/s1oopX/clipmaster-tauri)，剪贴板工具，Rust + Tauri
+- **useful experiments** — [grok2api-enhanced](https://github.com/s1oopX/grok2api-enhanced)、[SentimentPlatform-Open](https://github.com/s1oopX/SentimentPlatform-Open)
+- **small but thoughtful projects** — [narrow-x](https://github.com/s1oopX/narrow-x)，安静的内容优先 Astro 博客主题
+- **things worth watching** — [ReserveX](https://github.com/s1oopX/ReserveX)，预约抢号系统：Redis 预占 + 补偿对账 + 分库分表
 
 ### Current keywords
 
-`agents` `AI tools` `interfaces` `local software` `automation` `product sense` `future workflows`
+`agents` `AI tools` `interfaces` `local software` `automation` `future workflows`
 
 [s1oopX的个人站](https://s1oopx.bond)
