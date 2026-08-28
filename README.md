@@ -2,7 +2,7 @@
 
 持续学习，深耕交付，写真正跑在公网与日常工具里的代码。
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=F0F6FC&vCenter=true&width=560&lines=Full-lifecycle+engineering%3A+Code%2C+Infra+%26+Network.;从后端架构到边缘交付，追求性能与系统可靠性。" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=24292E&vCenter=true&width=560&lines=Full-lifecycle+engineering%3A+Code%2C+Infra+%26+Network.;%E4%BB%8E%E5%90%8E%E7%AB%AF%E6%9E%B6%E6%9E%84%E5%88%B0%E8%BE%B9%E7%BC%98%E4%BA%A4%E4%BB%98%EF%BC%8C%E8%BF%BD%E6%B1%82%E6%80%A7%E8%83%BD%E4%B8%8E%E7%B3%BB%E7%BB%9F%E5%8F%AF%E9%9D%A0%E6%80%A7%E3%80%82" alt="typing" />
 
 `backend & concurrency` `edge & network` `vps devops` `rust & tauri` `web performance` `ai & workflows`
 
