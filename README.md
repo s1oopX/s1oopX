@@ -17,20 +17,6 @@
 
 ---
 
-### Projects
-
-- **[ReserveX](https://github.com/s1oopX/ReserveX)** — 模块化单体预约系统：Redis 预占 + 消息补偿对账 + 分库分表 `Java 21` `Spring Boot`
-- **[clipmaster-tauri](https://github.com/s1oopX/clipmaster-tauri)** — 极简跨平台剪贴板管理工具，本地隐私优先 `Rust` `Tauri`
-- **[narrow-x](https://github.com/s1oopX/narrow-x)** — 内容优先博客主题，首屏性能优化与中文字体子集化 `Astro` `CF Edge`
-- **[grok2api-enhanced](https://github.com/s1oopX/grok2api-enhanced)** — 增强型 API 代理，集成网络出口路由与看板 `Python` `Docker`
-- **[SentimentPlatform-Open](https://github.com/s1oopX/SentimentPlatform-Open)** — 文本反馈与情绪信号多维分析平台 `Python`
-- **[agent-memory-workflow](https://github.com/s1oopX/agent-memory-workflow)** — Agent 记忆检索与长上下文连续性工作流 `PowerShell`
-- **[teamspeak3-vps-oneclick](https://github.com/s1oopX/teamspeak3-vps-oneclick)** — VPS 容器化一键部署与持久化脚本 `Shell` `Compose`
-- **[codex-api-switchboard](https://github.com/s1oopX/codex-api-switchboard)** — 纯前端本地处理的 API 配置转换工具 `JavaScript`
-- **[DjangoBlog](https://github.com/s1oopX/DjangoBlog)** — 经典 MVC 全栈 Web 博客系统 `Python` `Django`
-
----
-
 ### Links
 
 [Website](https://s1oopx.bond) · [Email](mailto:your-emailcontact@stylex.cyou)
