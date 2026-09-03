@@ -1,22 +1,45 @@
-## s1oopX
+# s1oopX
 
-持续学习，深耕交付，写真正跑在公网与日常工具里的代码。
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=24292E&vCenter=true&width=560&lines=Full-lifecycle+engineering%3A+Code%2C+Infra+%26+Network.;%E4%BB%8E%E5%90%8E%E7%AB%AF%E6%9E%B6%E6%9E%84%E5%88%B0%E8%BE%B9%E7%BC%98%E4%BA%A4%E4%BB%98%EF%BC%8C%E8%BF%BD%E6%B1%82%E6%80%A7%E8%83%BD%E4%B8%8E%E7%B3%BB%E7%BB%9F%E5%8F%AF%E9%9D%A0%E6%80%A7%E3%80%82" alt="typing" />
-
-`backend & concurrency` `edge & network` `vps devops` `rust & tauri` `web performance` `protocol & api debugging`
+> 持续学习，深耕交付，写真正跑在公网与日常工具里的代码。  
+> *Crafting systems and practical tooling that survive on the public internet.*
 
 ---
 
-### Focus
+### ✦ Engineering Philosophy
 
-- **后端架构与高并发**：Java 21 / Spring Boot，关注抢号链路、分布式锁、缓存一致性与数据对账。
-- **边缘交付与系统排障**：Cloudflare 边缘分发、1核1G VPS 容器加固；熟练运用 Wireshark / Burp Suite 进行底层协议抓包与 API 逆向调试。
-- **前端性能与原生工具**：Web Vitals 首屏调优（Astro）；Rust + Tauri 低资源占用桌面工具。
-- **AI 代理与工作流探索**：模型 API 路由调度、Agent 上下文记忆与文本信号分析。
+- **内存真值与最终一致**：库存由 Redis 内存原子保证，一致性交由异步对账与自愈补偿收口。不迷信单一分布式锁，用 CAS 与数据库唯一索引筑牢资损防御底线。
+- **资源敬畏与极限防御**：在 1核1G VPS 的物理约束下探索系统上限，以 Linux 内核参数微调、OOM 防御与轻量容器编排守护高可用公网服务。
+- **协议优先与底层观测**：相信 Wireshark 与 Burp Suite 抓包里的原始 TCP/TLS 报文，胜过未经生产压测的高层框架抽象。
+- **显式契约与工具造物**：以显式协议消除人机上下文孤岛，坚持自主研发日常使用的 CLI、跨端桌面工具与边缘应用，重构个人工作流。
 
 ---
 
-### Links
+### ✦ Selected Works
 
-[Website](https://s1oopx.bond) · [Email](mailto:your-emailcontact@stylex.cyou)
+- **[ReserveX](https://github.com/s1oopX/ReserveX)** · 湿地公园高并发预约系统  
+  基于 Redis 7 + Lua 原子扣减、5 桶顺时针环形借桶、RocketMQ 削峰异步落库与四类对账机制。JMeter 27 万样本实测 1,520 QPS (P99 < 26.4ms)。  
+  ↳ 在线架构观测台：[reservex.stylex.cyou](https://reservex.stylex.cyou) *(纯黑终端实时 EVALSHA 指令、状态机与沙盒平账)*
+
+- **[agent-memory-workflow](https://github.com/s1oopX/agent-memory-workflow)** · Coding Agent 跨会话长期记忆契约  
+  设计 `.agents/` 显式文件契约，物理隔离机器事实与人类审查，打通多端 Agent 对话上下文孤岛，消除全盘冷启动扫描。
+
+- **[Narrow-X](https://github.com/s1oopX/narrow-x)** · 内容优先 Astro 博客主题  
+  安静、克制、高信噪比的技术思考载体。追求零运行时 JS 膨胀与接近满分的 Web Vitals 边缘体验。
+
+- **[FolioX](https://github.com/s1oopX/foliox)** · 个人工程化作品集  
+  基于 React 19 + Tailwind CSS v4 + Cloudflare 边缘托管，具备严格的 ESLint / Prettier / TypeScript 自动化 CI 质量门禁。  
+  ↳ 在线访问：[stylex.cyou](https://stylex.cyou)
+
+---
+
+### ✦ Upstream Contributions
+
+坚持向主流开源项目提交具备完备自动化测试的高信噪比补丁：
+- **[t8y2/dbx](https://github.com/t8y2/dbx)** (`#7550` · Merged): 修复 CodeMirror SQL Server 方言词法解析时序冲突，新增 3 类语法测试，保障全库 4,688 用例零回归。
+- **[watermarks-remover](https://github.com/2412852238/watermarks-remover)** (`#284` · Merged): 补齐扫描器 40+ 语言分类路由与 AST 特征解析。
+
+---
+
+### ✦ Connect
+
+[Portfolio (stylex.cyou)](https://stylex.cyou) · [Blog (s1oopx.bond)](https://s1oopx.bond) · [contact@stylex.cyou](mailto:contact@stylex.cyou)
