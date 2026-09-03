@@ -23,8 +23,8 @@
 - **[agent-memory-workflow](https://github.com/s1oopX/agent-memory-workflow)** · Coding Agent 跨会话长期记忆契约  
   设计 `.agents/` 显式文件契约，物理隔离机器事实与人类审查，打通多端 Agent 对话上下文孤岛，消除全盘冷启动扫描。
 
-- **[Narrow-X](https://github.com/s1oopX/narrow-x)** · 内容优先 Astro 博客主题  
-  安静、克制、高信噪比的技术思考载体。追求零运行时 JS 膨胀与接近满分的 Web Vitals 边缘体验。
+- **[Narrow-X](https://github.com/s1oopX/narrow-x)** · 内容优先 Astro 个人站主题  
+  安静、克制、高信噪比的个人站与思考载体。追求零运行时 JS 膨胀与接近满分的 Web Vitals 边缘体验。
 
 - **[FolioX](https://github.com/s1oopX/foliox)** · 个人工程化作品集  
   基于 React 19 + Tailwind CSS v4 + Cloudflare 边缘托管，具备严格的 ESLint / Prettier / TypeScript 自动化 CI 质量门禁。  
@@ -34,5 +34,5 @@
 
 ### ✦ Connect
 
-[Portfolio (stylex.cyou)](https://stylex.cyou) · [Blog (s1oopx.bond)](https://s1oopx.bond) · [contact@stylex.cyou](mailto:contact@stylex.cyou)
+[Personal Site (s1oopx.bond)](https://s1oopx.bond) · [Portfolio (stylex.cyou)](https://stylex.cyou) · [contact@stylex.cyou](mailto:contact@stylex.cyou)
 
