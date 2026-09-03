@@ -32,14 +32,7 @@
 
 ---
 
-### ✦ Upstream Contributions
-
-坚持向主流开源项目提交具备完备自动化测试的高信噪比补丁：
-- **[t8y2/dbx](https://github.com/t8y2/dbx)** (`#7550` · Merged): 修复 CodeMirror SQL Server 方言词法解析时序冲突，新增 3 类语法测试，保障全库 4,688 用例零回归。
-- **[watermarks-remover](https://github.com/2412852238/watermarks-remover)** (`#284` · Merged): 补齐扫描器 40+ 语言分类路由与 AST 特征解析。
-
----
-
 ### ✦ Connect
 
 [Portfolio (stylex.cyou)](https://stylex.cyou) · [Blog (s1oopx.bond)](https://s1oopx.bond) · [contact@stylex.cyou](mailto:contact@stylex.cyou)
+
