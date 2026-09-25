@@ -33,5 +33,5 @@
 
 ### ✦ Connect
 
-[Personal Site (s1oopx.bond)](https://s1oopx.bond) · [Portfolio (stylex.cyou)](https://stylex.cyou) · [contact@stylex.cyou](mailto:contact@stylex.cyou)
+[Personal Site (s1oopx.com)](https://s1oopx.com) · [Portfolio (stylex.cyou)](https://stylex.cyou) · [contact@stylex.cyou](mailto:contact@stylex.cyou)
 
